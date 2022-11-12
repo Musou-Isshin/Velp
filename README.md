@@ -1,2 +1,2 @@
 # Velp
-This contain the Jupyter files using in Velp project.
+This contains the Jupyter files used in Velp project.
